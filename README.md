@@ -3,13 +3,13 @@
 <p align="center"> 
 
 - #### ⚡  C/C++ & Java
-- #### 🧑‍🎓  I will become a PhD in the field of artificial intelligence  
+- #### 🧑‍🎓  I will become a PhD in the field of artificial intelligence
+- #### 📕  prose & poetry
   
 
- <table><tr>
-<td><img src=https://github-readme-stats.vercel.app/api?username=xun-girl&show_icons=true border=0></td>
-<td><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=xun-girl&layout=compact&hide_border=true&langs_count=10 border=0></td>
-</tr></table>
+  
+![](https://github-readme-stats.vercel.app/api?username=xun-girl&show_icons=true)    
+![steve zhang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xun-girl&layout=compact&hide_border=true&langs_count=10)   
 
 
 <!--START_SECTION:waka-->
