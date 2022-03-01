@@ -1,5 +1,5 @@
 ###  Hello everyone ✌️
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="zoom: 50%;" >
+<img src="https://s2.loli.net/2022/03/01/VS1OL5wEHYmTKAg.jpg" alt="Hello world"  >
 <p align="center"> 
 
 - #### ⚡  C/C++ & Java
