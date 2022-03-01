@@ -6,4 +6,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=xun-girl)
 
-![stevezhang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=xun-girl&show_icons=true&count_private=true&theme=gotham)
+
