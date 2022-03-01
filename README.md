@@ -6,6 +6,10 @@
 - #### 🧑‍🎓  I will become a PhD in the field of artificial intelligence
 - #### 📕  prose & poetry
   
+  ![](https://img.shields.io/badge/python-3.9-orange?style=for-the—badge&logo=python&logoColor=orange)
+  ![](https://img.shields.io/badge/C++-20-pink?style=for-the—badge&logo=C&logoColor=pink)
+  ![](https://img.shields.io/badge/java-15-red?style=for-the—badge&logo=java&logoColor=red)
+
 
   
 ![](https://github-readme-stats.vercel.app/api?username=xun-girl&show_icons=true)    
