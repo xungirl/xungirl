@@ -24,5 +24,3 @@ JSON     0 secs          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![](https://wakatime.com/share/@39d9bfab-a72f-4b2a-8c00-5c19250b232c/275382ad-e4c4-4cc4-b820-1c3e5c3796ea.svg)
