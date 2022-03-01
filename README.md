@@ -1,4 +1,4 @@
-###  Hello everyone  ✌️
+###  Hello everyone ✌️
 
 - #### I’m currently learning  C++ & Java
 - #### I will become a PhD in the field of artificial intelligence  
