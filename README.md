@@ -1,9 +1,11 @@
 ###  Hello everyone ✌️
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world" style="zoom: 50%;" >
+<p align="center"> 
 
-- #### I’m currently learning  C++ & Java
-- #### I will become a PhD in the field of artificial intelligence  
+- #### ⚡  C/C++ & Java
+- #### 🧑‍🎓  I will become a PhD in the field of artificial intelligence  
 
-![](https://github-readme-stats.vercel.app/api?username=xun-girl)    
+![](https://github-readme-stats.vercel.app/api?username=xun-girl&show_icons=true)    
 ![steve zhang's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xun-girl&layout=compact&hide_border=true&langs_count=10)   
 
 <!--START_SECTION:waka-->
