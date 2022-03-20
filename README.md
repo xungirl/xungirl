@@ -1,5 +1,6 @@
 <h1 align="center">Good morning ✌️</h1>
-<img src="https://s2.loli.net/2022/03/08/XPR9lsUgKfBQMdA.png" alt="Hello world"  >
+
+<img src="https://pbs.twimg.com/media/FOSVv3sWUAMnJqF?format=jpg&name=large" alt="Hello world"  >
 <p align="center"> 
 
 - #### ⚡  C/C++ & Java
