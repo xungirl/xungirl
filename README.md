@@ -12,7 +12,7 @@
   ![](https://img.shields.io/badge/java-15-red?style=for-the—badge&logo=java&logoColor=red)
  
 ![](https://github-readme-stats.vercel.app/api?username=xun-girl&show_icons=true)    
-![弱柳扶风's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xun-girl&layout=compact&hide_border=true&langs_count=10)   
+![讯迅's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xun-girl&layout=compact&hide_border=true&langs_count=10)   
 
 
 <!--START_SECTION:waka-->
