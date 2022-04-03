@@ -1,6 +1,13 @@
-<h1 align="center">Good morning ✌️</h1>
-<img src="https://pbs.twimg.com/media/FOSVv3sWUAMnJqF?format=jpg&name=large" alt="Hello world"  >
-<p align="center"> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=33&color=64B9F7&center=true&vCenter=true&lines=Good+morning!+)](https://git.io/typing-svg)
+ 
+ 
+ 
+ 
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xun-girl&theme=tokyonight_duo&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+
 
 - #### ⚡  C/C++ & Java
 - #### 🧑‍🎓  I will become a PhD in the field of artificial intelligence
@@ -33,3 +40,4 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
   
   
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xun-girl&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
