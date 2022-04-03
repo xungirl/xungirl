@@ -1,12 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=33&color=64B9F7&center=true&vCenter=true&lines=Good+morning!+)](https://git.io/typing-svg)
-
-
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xun_girl)](https://github.com/anuraghazra/github-readme-stats)
  
   
- 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xun-girl&theme=tokyonight_duo&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
@@ -46,4 +41,4 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
  
  
  
- 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xun_girl)](https://github.com/anuraghazra/github-readme-stats)
