@@ -35,7 +35,7 @@ Other    51 mins         ▒░░░░░░░░░░░░░░░░░�
 
   
   
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xun-girl&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xun-girl&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  
  
