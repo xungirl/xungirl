@@ -26,9 +26,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart         5 hrs 41 mins   ██████████████████░░░░░░░   72.37 %
-JavaScript   2 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   27.57 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+JavaScript   2 hrs 46 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
