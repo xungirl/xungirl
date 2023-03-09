@@ -19,8 +19,7 @@
   
  
 
-![](https://github-readme-stats.vercel.app/api?username=xun-girl&show_icons=true)    
-![讯迅's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xun-girl&hide=javascript,html,css,markdown&layout=compact&hide_border=true&langs_count=10)   
+
 
 
 <!--START_SECTION:waka-->
@@ -29,24 +28,6 @@
 JavaScript   3 hrs 38 mins   █████████████████████▓░░░   86.02 %
 HTML         35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!--END_SECTION:waka-->
 
