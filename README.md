@@ -51,8 +51,7 @@ HTML         35 mins         ███▒░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
   
-  
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=xun-girl&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
  
  
  
