@@ -25,7 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 51 mins   █████████████████████████   100.00 %
+Python       4 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.46 %
+JavaScript   1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
+XML          1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Vue.js       42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
 ```
 
 <!--END_SECTION:waka-->
