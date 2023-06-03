@@ -24,7 +24,7 @@
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python       4 hrs 50 mins   ██████████████▓░░░░░░░░░░   58.12 %
 JavaScript   1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
 XML          1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
