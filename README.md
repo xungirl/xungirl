@@ -25,8 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   21 mins         ██████████████▒░░░░░░░░░░   58.00 %
-TOML     15 mins         ██████████▓░░░░░░░░░░░░░░   42.00 %
+Python   25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
