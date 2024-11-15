@@ -3,8 +3,15 @@
 </br>
 
 
-- ### 🔧  Full stack SDE
-- ### 🧑‍🎓  To do Europe🇪🇺
+<div style="display: flex; align-items: center;">
+  <h3>🔧 Full stack SDE</h3>
+  <img src="your-image.svg" alt="icon" width="30" style="margin-left: 10px;">
+</div>
+
+<div style="display: flex; align-items: center;">
+  <h3>🧑‍🎓 To do Europe🇪🇺</h3>
+  <img src=".svg" alt="icon" width="30" style="margin-left: 10px;">
+</div>
 
 </br>
 <div>
