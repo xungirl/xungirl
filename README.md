@@ -3,7 +3,7 @@
 
 
 <div style="display: flex; align-items: center;">
-  <h3>🔧 Full stack SDE</h3>
+  <h3>🛠️ Full-Stack SDE</h3>
 </div>
 
 <div style="display: flex; align-items: center;">
