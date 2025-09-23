@@ -9,6 +9,13 @@
 <div style="display: flex; align-items: center;">
   <h3>🧑‍🎓 To do Europe🇪🇺</h3>
 </div>
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/7/7f/IELTS_logo.svg"
+  alt="IELTS logo"
+  width="240"
+  height="80"
+  loading="lazy"
+/>
 
  
 <h3 align="left">Tech-stack:</h3>
