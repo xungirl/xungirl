@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-  <h3>🧑‍🎓 To do 美国🇺🇸</h3>
+  <h3>🧑‍🎓 To do 🇺🇸</h3>
 </div>
 
 
